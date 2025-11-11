@@ -10,7 +10,8 @@ public class CalcPi {
 				sum = sum - (1.0 / (2.0 * i + 1.0));
 			}
 		}
-		System.out.println(4 * sum);
+		System.out.println("pi according to Java: " + Math.PI);
+		System.out.println("pi, approximated: " + 4* sum);
 	}
 	// Replace this comment with your code
 }
