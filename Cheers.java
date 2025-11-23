@@ -1,7 +1,8 @@
 //feedback
 
 /*
-Great work boaz!
+Great work! the use of indexOf is spot on! 
+nice:)
 */
 
 
