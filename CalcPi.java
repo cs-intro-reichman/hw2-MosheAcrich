@@ -1,3 +1,4 @@
+//nice!
 // Computes an approximation of PI.// acordarme que el primer numero es indice 0, entocnes el segundo numero es impar no par.
 public class CalcPi {
 	public static void main(String[] args) {
